@@ -1,20 +1,19 @@
 ## Hello World 👏
-👋 Hi, I'm Kordian
-
+### 👋 Hi, I'm Kordian
 💻 Full-stack developer (.NET + React)
 🎓 Computer Science graduate
 
-🚀 About Me
+### 🚀 About Me
 I build full-stack applications using ASP.NET Core, React, and SQL Server.
 My main project is a complete e-learning platform with authentication, CMS, and quiz system.
 
-🛠️ Tech Stack
+### 🛠️ Tech Stack
 ASP.NET Core, Entity Framework
 React (Next.js)
 SQL Server
 .NET MAUI
 
-📌 Current Focus
+### 📌 Current Focus
 Backend development (.NET)
 Building real-world projects
 Preparing for junior developer role
