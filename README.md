@@ -8,7 +8,8 @@ I build full-stack applications using ASP.NET Core, React, and SQL Server.
 My main project is a complete e-learning platform with authentication, CMS, and quiz system.
 
 ### 🛠️ Tech Stack
-ASP.NET Core, Entity Framework
+ASP.NET Core
+Entity Framework
 React (Next.js)
 SQL Server
 .NET MAUI
