@@ -12,7 +12,7 @@ My main project is a complete e-learning platform featuring authentication, role
 
 - ASP.NET Core
 - Entity Framework Core
-- React (Next.js)
+- React
 - SQL Server
 - .NET MAUI
 
